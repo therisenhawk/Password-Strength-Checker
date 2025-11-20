@@ -29,7 +29,7 @@ Enter a password to check (or 'q' to quit): Hello123!
 Password strength: Strong
 
 Suggestions to improve your password:
-- For a stronger password, use 12 or more characters.
+- For a stronger password, use 8 or more characters.
 
 ▶️ How to Run the Program
 
