@@ -42,16 +42,16 @@ Open a terminal in the project folder
 
 Run:
 
-python3 password_checker.py
+python3 Password Checker.py
 
 
 or on Windows:
 
-python password_checker.py
+python Password Checker.py
 
 📂 Files in This Project
 
-password_checker.py — main program
+Password Checker.py — main program
 
 README.md — this file
 
